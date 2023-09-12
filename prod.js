@@ -14,6 +14,8 @@ function productFib(prod) {
     return [a, b, a * b === prod];
 }
 
+const result = productFib(21);
+console.log(result);
 
 // https://www.codewars.com/kata/5541f58a944b85ce6d00006a/train/javascript
 
