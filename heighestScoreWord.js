@@ -20,6 +20,5 @@ function high(x){
    return highestWord;
  }
 
-
 //  https://www.codewars.com/kata/57eb8fcdf670e99d9b000272/train/javascript
 // js algorithm to get the highest scoring wordd
